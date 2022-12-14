@@ -5,6 +5,9 @@
 
 
 Note: This code has been heaviy borrowed from https://github.com/guochengqian/PointNeXt
+Please follow the instructions from PointNeXt for installation of environment.
+
+This is working in progress (However, the results of scanobjectnn mentioned in the papers can be easily recreated. Refer the log files).
 
 Please cite our paper
 ```BibTex
