@@ -10,19 +10,12 @@ Please cite our paper
 ```BibTex
 @misc{https://doi.org/10.48550/arxiv.2212.05140,
   doi = {10.48550/ARXIV.2212.05140},
-  
   url = {https://arxiv.org/abs/2212.05140},
-  
   author = {Sheshappanavar, Shivanand Venkanna and Kambhamettu, Chandra},
-  
   keywords = {Computer Vision and Pattern Recognition (cs.CV), Multimedia (cs.MM), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {Local Neighborhood Features for 3D Classification},
-  
   publisher = {arXiv},
-  
   year = {2022},
-  
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
